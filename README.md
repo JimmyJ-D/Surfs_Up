@@ -13,8 +13,8 @@ Using SQlite and SQlAlchemy we extracted the statistical temperatures for June a
 ![June Summary](https://github.com/JimmyJ-D/Surfs_Up/blob/main/Resource/June%20Summary%20Statistics.png)
 
 1. The mean difference between temperatures in June and December is only ~ 3 degrees
-2. The maximum temperature difference from June to December is 2 degrees
-3. The greatest temperature difference between June and December is the minimal temperature. December minimal temperature is 8 degrees cooler than June minimal temperature
+2. The maximum temperature difference between June and December is 2 degrees
+3. The greatest temperature difference between June and December is the their minimal temperatures. December minimal temperature is 8 degrees cooler than June minimal temperature
 
 ![December Summary](https://github.com/JimmyJ-D/Surfs_Up/blob/main/Resource/June%20Summary%20Statistics.png)
 
