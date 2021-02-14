@@ -4,7 +4,7 @@ Using Python, SQlite, SQlAlchemy
 ![Vladimir_Kudinov](https://github.com/JimmyJ-D/Surfs_Up/blob/main/Resource/vladimir-kudinov-RKiMg1bwsMY-unsplash.png)
 
 ## Overview and Parameters
-Using Python and imported tools, we analyze the temperatures on the island of Oahu to determine if a Ice Cream Surf shop is sustainable year round. Specifically, we will compare the mean, minimal, and maximum temperatures for the months of June and December.
+Using Python and imported tools, we analyze the temperatures on the island of Oahu to determine if an Ice Cream Surf shop is sustainable year round. Specifically, we will compare the mean, minimal, and maximum temperatures for the months of June and December.
 
 
 ### June and December Temperatures
@@ -20,4 +20,4 @@ Using SQlite and SQlAlchemy we extracted the statistical temperatures for June a
 
 ### Summary
 The initial data shows very promising results for a constance mild temperature with only 3.74 standard deviation in degrees. The mild and constant temperature can attract similar clients year round to the Surf shop. While there is only 4 degrees average temperature deviation for the year, we should also compare and plot precipitation and wind. Adding these two parameters to the deliverable can provide a more in depth forecasting for surfing and consuming ice cream outdoors on the island of Ohau.
-![DoleWhip](https://github.com/JimmyJ-D/Surfs_Up/blob/main/Resource/IMG_3277.png)
+![ice cream shop](https://github.com/JimmyJ-D/Surfs_Up/blob/main/Resource/dustin-belt-iYC4SXaANJc-unsplash.png)
